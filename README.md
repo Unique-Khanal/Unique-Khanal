@@ -22,7 +22,7 @@ I'm a methodical, detail-driven developer with a knack for crafting **secure, re
 `MySQL` • `XAMPP` • `phpMyAdmin` • `Session Management`
 
 **Tools I Like**  
-`VS Code` • `Git` • `GitHub` • `SweetAlert2`
+`VS Code` • `Git` • `GitHub` • `SweetAlert2` • `PHPStorm` • `JetBrians`
 
 ---
 
@@ -56,7 +56,7 @@ I'm a methodical, detail-driven developer with a knack for crafting **secure, re
 
 ### 📫 Let's Connect!
 
-- 📧 Email: your-email@example.com  
+- 📧 Email: uniquekhanal2020@gmail.com  
 - 💼 Portfolio: _Coming soon... stay tuned!_
 
 ---
